@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636556418463",
+    "project_id": "gameproject-d84b3",
+    "storage_bucket": "gameproject-d84b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636556418463:android:e8f74e43a39bfd820531aa",
+        "android_client_info": {
+          "package_name": "ipca.gameproject.a21080"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636556418463-u0s0jo5cdj1aklcngqqes62t49d9om43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ipca.gameproject.a21080",
+            "certificate_hash": "d179c41d7023db37ff1c97546509813139eb7bf4"
+          }
+        },
+        {
+          "client_id": "636556418463-1vne95i0ek83cfuhopsi439ttfd3mt32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjdXAC57HBfYdmFEZ-qdVQjM2pHg1z72g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636556418463-1vne95i0ek83cfuhopsi439ttfd3mt32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
